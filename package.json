@@ -1,0 +1,11 @@
+{
+  "name": "proda_2",
+  "version": "1.0.0",
+  "description": "the second edition or version of proda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ohanz",
+  "license": "ISC"
+}

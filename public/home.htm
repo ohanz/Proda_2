@@ -1,0 +1,52 @@
+<!Doctype html>
+<html>
+    <head><title>Proda 2.0</title>
+    
+        <style>
+            body{background-color: rgb(171, 191, 191);}
+            .my-product-cont{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            #product-imago{
+                width: 100px; height: auto;
+            }
+            .product-info{
+                padding: 20px;
+            }
+            .product-info h3{
+                font-weight: bold;
+                font-size: 18px;
+            }
+            .product-info p{
+                color: #666;
+                font-size: 14px;  
+            }
+
+            button{
+                
+                background-color: #035c06;
+                color: #fff;
+                border: none;
+            }
+            #user-greeting{
+                font-size: 20px; ;
+            }
+
+        </style>
+    </head>
+
+<body>
+    <h1>This is Simple Commerce Test Base</h1>
+<br/><p id="Sign-in-Status"> Sign-In/Sign-Up <a href="signIn.htm">Here.</a></p>
+    <div id="user-status">
+        <p id="user-greeting"></p>
+        <button style="background-color: rgb(204, 38, 38); padding: 10px; font-size:medium;" id="sign-out-button">Sign Out</button>
+      </div><br/>
+<div class="my-product-cont"></div>
+<script src="format.js"></script>
+<script src="script.js"></script>
+</body>
+
+</html>

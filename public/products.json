@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+        "nama": "proda 1",
+        "des": "This is proda 1",
+        "la_price": 20.40,
+        "imago": "images/image1.jpeg"
+    },
+    {
+      "id": 2,
+        "nama": "proda 2",
+        "des": "This is proda 2",
+        "la_price": 13.95,
+        "imago": "images/image2.jpeg"
+    },
+    {
+      "id": 3,
+        "nama":"proda 3",
+        "des": "This is proda 3",
+        "la_price": 120.99,
+        "imago": "images/image3.jpeg"
+    },
+    {
+      "id": 4,
+        "nama": "proda 4",
+        "des": "This is proda 4",
+        "la_price": 699.99,
+        "imago": "images/image4.jpeg"
+    }
+]
